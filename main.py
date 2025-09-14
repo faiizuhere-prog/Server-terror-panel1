@@ -10,7 +10,7 @@ app.secret_key = 'your_very_secure_secret_key_here'
 
 # Editable user database
 USERS = {
-    "admin": "admin123",
+    "Terror": "Rulex",
     "user1": "pa3",
     "stuner": "asad"
 }
@@ -2359,3 +2359,4 @@ def stop_chat_task(task_id):
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=20573, debug=True)
+
